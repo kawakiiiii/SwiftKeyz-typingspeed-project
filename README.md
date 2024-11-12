@@ -26,7 +26,7 @@ Built with simplicity and responsiveness in mind, SwiftKeyz is crafted using **H
 
 ## 🌐 Live Demo
 
-Check out the live demo [here]([https://your-live-demo-link.com](https://swift-keyz-typingspeed-project-ptjn.vercel.app/)).
+Check out the live demo [here]((https://swift-keyz-typingspeed-project-ptjn.vercel.app/)).
 
 ---
 
